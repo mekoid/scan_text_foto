@@ -1,2 +1,7 @@
-# scan_text_foto
-Buat bantuan ocr scan strings saat ctf
+# running?
+```bash
+$ cd scan_text_foto
+$ pip install pytesseract
+$ python ocr.py
+```
+## Demo
